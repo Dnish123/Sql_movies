@@ -1,2 +1,2 @@
 # Sql_movies
-a set of queries to get various imformation from the movies dataset
+a set of queries to get various information from the movies dataset
