@@ -1,3 +1,4 @@
+-- query to join movie actors and their movies in the database amd getting the number of count of movues done by an actor
 Select 
 m.title, group_concat(a.name SEPARATOR " | " ) as actors
 from movies m
