@@ -1,3 +1,4 @@
+-- Queries to select data from the database based on the movies_name
 SELECT *  FROM movies where title like  "%america%" ;
 Select * from movies where studio =" ";
 select * from movies where industry ="Bollywood";
